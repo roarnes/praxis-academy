@@ -1,6 +1,6 @@
 # DART BASIC AlGORITHMS
 
-This project gives solutions to some of the basic algorithm problems as seen in https://devinpractice.com/2017/10/22/algorithms-basic-exercises-part-1/ using DART programming language as an introduction to the basic syntax in DART.
+This project gives solutions to some of the basic algorithm problems as shown in [Algorithms: Basic Exercises – Part 1] (https://devinpractice.com/2017/10/22/algorithms-basic-exercises-part-1/) using DART programming language as an introduction to the basic syntax in DART.
 
 There are two files written, namely ```main.dart``` and ```dart_basic_syntax.dart```. All the algorithms that are explained here are written as functions in lib/dart_basic_syntax.dart.
 

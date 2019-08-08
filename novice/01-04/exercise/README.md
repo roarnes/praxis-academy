@@ -344,6 +344,9 @@ Set after removing all entry : {}
 ```
 
 ### Generics
+
+Directory: bin/generics.dart
+
 The use of Generics enforces a restriction on the data type of the values that can be contained by the collection. Such collections are termed as type-safe collections.
 
 #### Generic List

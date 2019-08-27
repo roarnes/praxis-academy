@@ -92,4 +92,4 @@ getDeviceInfo() async {
 
 ## Result
 
-[Result](result.png)
+![Result](result.png)
